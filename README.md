@@ -27,7 +27,7 @@
 ``` java
 public YingWasTaken(){
  String name = "Ying";
- int edad = 18;
+ int age = 18;
  String level = "Junior";
  String country = "Spain";
     String[] languages = {"Java", "SQL"};
