@@ -1,9 +1,3 @@
-public YingWasTaken(){
-  int age = 18;
-  String language = Spanish;
-  String[] programming = {"Java"};  
-}
-
 
 
 <!--Github Stats-->
