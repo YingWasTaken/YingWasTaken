@@ -17,13 +17,51 @@
 -->
 </p>
 
+<!--Stats-->
 <h3 align="center">Stats:</h3>
 <p align="center">&nbsp;<img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=YingWasTaken&show_icons=true&locale=en&theme=monokai" alt="YingWasTaken" /></p>
 
 <p align="center"><img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=YingWasTaken&show_icons=true&locale=en&layout=compact&theme=monokai" alt="YingWasTaken" /></p>
 
-<!--Github Stats-->
-[![YingWasTaken's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YingWasTaken&show_icons=true&theme=monokai)](https://github.com/YingWasTaken/github-readme-stats#gh-dark-mode-only)
+# __Presentation:__
+``` java
+public void Pablo(){
+ String a;
+}
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YingWasTaken&layout=compact&theme=monokai)
+const skills = {
+    name: "Vera",
+    age: "19",
+    level: "Junior",
+    country: "Spain",
+    languages: ["JavaScript", "SQL", "HTML5", "CSS3"],
+    layouts: {
+        markup: ["Handlebars"],
+        styling: ["BootStrap"]
+    },
+    desktop: ["Electron"],
+    environments: ["NodeJS"],
+    modules: ["Express.js", "Bcrypt.js", "SQLCypher"],
+    databases: {
+        relational: ["MySQL", "SQLite3"]
+    },
+    tools: ["Heroku", "Git", "Snyk", "NPM", "Trello", "Heroku CLI"]
+};
+
+```
+```
+Name: Vera
+Age: 19
+Level in programmation: Junior
+Country: Spain
+Languages: JavaScript SQL HTML5 CSS3
+Layouts:
+    - Markup: Handlebars
+    - Styling: Bootstrap
+Environments: NodeJS
+Desktop: Electron
+Modules: Express.js Bcrypt.js
+Databases: MySQL, SQLite
+Tools: Heroku Git Snyk Trello Heroku CLI
+```
 
