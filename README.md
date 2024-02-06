@@ -25,43 +25,11 @@
 
 # __Presentation:__
 ``` java
-public void Pablo(){
- String a;
+public YingWasTaken(){
+ String name = "Ying";
+ int edad = 18;
+ String level = "Junior";
+ String country = "Spain";
+    String[] languages = {"Java", "SQL"};
 }
-
-const skills = {
-    name: "Vera",
-    age: "19",
-    level: "Junior",
-    country: "Spain",
-    languages: ["JavaScript", "SQL", "HTML5", "CSS3"],
-    layouts: {
-        markup: ["Handlebars"],
-        styling: ["BootStrap"]
-    },
-    desktop: ["Electron"],
-    environments: ["NodeJS"],
-    modules: ["Express.js", "Bcrypt.js", "SQLCypher"],
-    databases: {
-        relational: ["MySQL", "SQLite3"]
-    },
-    tools: ["Heroku", "Git", "Snyk", "NPM", "Trello", "Heroku CLI"]
-};
-
 ```
-```
-Name: Vera
-Age: 19
-Level in programmation: Junior
-Country: Spain
-Languages: JavaScript SQL HTML5 CSS3
-Layouts:
-    - Markup: Handlebars
-    - Styling: Bootstrap
-Environments: NodeJS
-Desktop: Electron
-Modules: Express.js Bcrypt.js
-Databases: MySQL, SQLite
-Tools: Heroku Git Snyk Trello Heroku CLI
-```
-
