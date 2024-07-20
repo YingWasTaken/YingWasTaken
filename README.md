@@ -1,5 +1,5 @@
 <h1 align="center">Aloh 👋, I'm Ying</h1>
-<h3 align="center">A Jr Programmer, from Spain</h3>
+<h3 align="center">Jr Programmer, from Spain</h3>
 
 - 🌱 I’m currently learning **Python, JavaScript and C#**
 -  📫 Contact me **yingcontacto@gmail.com**
@@ -33,3 +33,4 @@ public YingWasTaken(){
     String[] languages = {"Java", "HTML5", "SQL"};
 }
 ```
+
