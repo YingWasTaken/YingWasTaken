@@ -1,8 +1,8 @@
 <h1 align="center">Aloh 👋, I'm Ying</h1>
-<h3 align="center">A new programmer, from Spain</h3>
+<h3 align="center">A Jr Programmer, from Spain</h3>
 
-- 🌱 I’m currently learning **Java and SQL**
--  📫 Contact me **casamianquinteropablo@gmail.com**
+- 🌱 I’m currently learning **Python, JavaScript and C#**
+-  📫 Contact me **yingcontacto@gmail.com**
 <h3 align="center">My Social Networks:</h3>
 
 <!-- Twitter por si algún día lo quiero poner
