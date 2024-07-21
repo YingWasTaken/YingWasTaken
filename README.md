@@ -8,8 +8,8 @@
 - 👨‍💻 All of my projects are available at [página web en construcción](página web en construcción)
 
 -  📫 Contact me **yingcontacto@gmail.com**
-- 
-<h3 align="center">My Social Networks:</h3>
+
+# <h3 align="center">My Social Networks:</h3>
 <p align="left"></p>
 
 <p align= "center">
@@ -21,7 +21,7 @@
 </p>
 
 <!--Stats-->
-<h3 align="center">Stats:</h3>
+# <h3 align="center">Stats:</h3>
 <p align="center">&nbsp;<img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=YingWasTaken&show_icons=true&locale=en&theme=monokai" alt="YingWasTaken" /></p>
 
 <p align="center"><img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=YingWasTaken&show_icons=true&locale=en&layout=compact&theme=monokai" alt="YingWasTaken" /></p>
