@@ -9,7 +9,7 @@
 
 -  📫 Contact me **yingcontacto@gmail.com**
 
-# __My Social Networks:__
+# __My Social:__
 <p align="left"></p>
 
 <p align= "center">
