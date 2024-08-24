@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Python, JavaScript and C#**
   
-- 👨‍💻 All of my projects are available at [página web en construcción](página web en construcción)
+- 👨‍💻 All of my projects are available at [this site](https://yingwastaken.github.io/))
 
 -  📫 Contact me **yingcontacto@gmail.com**
 
@@ -30,7 +30,7 @@
 ``` java
 public YingWasTaken(){
  String name = "Ying";
- int age = 18;
+ int age = 19;
  String level = "Junior";
  String country = "Spain";
     String[] languages = {"Java", "HTML5", "SQL"};
