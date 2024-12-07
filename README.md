@@ -28,12 +28,19 @@
 
 # __☯┋Presentation:__
 ``` java
-public YingWasTaken(){
- String name = "Ying";
- int age = 19;
- String level = "Junior";
- String country = "Spain";
-    String[] languages = {"Java", "HTML5", "SQL"};
+public YingWasTaken() {
+  // Información básica
+  String name = "Pablo Casamian";
+  int age = 19;
+  String level = "Junior";
+  String country = "Spain";
+  
+  // Habilidades
+  String[] frontendLanguages = {"HTML", "CSS", "JavaScript"};
+  String[] frontendFrameworks = {"Bootstrap"};
+  String[] backendLanguages = {"Java", "Python", "PHP"};
+  String[] databases = {"MySQL", "Oracle"};
+  String[] tools = {"Git", "Docker", "Hugo"};
 }
 ```
 
