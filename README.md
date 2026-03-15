@@ -31,14 +31,13 @@
 public YingWasTaken() {
   // Información básica
   String name = "Pablo Casamian";
-  int age = 19;
+  int age = 20;
   String level = "Junior";
   String country = "Spain";
   
   // Habilidades
-  String[] frontendLanguages = {"HTML", "CSS", "JavaScript"};
-  String[] frontendFrameworks = {"Bootstrap"};
-  String[] backendLanguages = {"Java", "Python", "PHP"};
+  String[] frontend = {"Vue.js", "React"};
+  String[] backend= {"Java", "Python", "PHP"};
   String[] databases = {"MySQL", "Oracle"};
   String[] tools = {"Git", "Docker", "Hugo"};
 }
